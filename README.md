@@ -1,4 +1,4 @@
-#지화 프로젝트 프롬프트 전송용 레포
+# 지화 프로젝트 프롬프트 전송용 레포
 
 ```bash
 git clone https://github.com/mseokq23/prompt_create.git
